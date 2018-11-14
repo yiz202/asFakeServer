@@ -3,120 +3,30 @@
       "partner":"rally",
       "displayName":"Rally Mobile",
       "authType":"",
-      "order":200,
-      "deviceType":"phone",
-      "dataTypes":[  
-         "Activity"
-      ]
+      "logoUrl":"https://carevergesurveyicons.s3.amazonaws.com/icons/ncqa06a3.png"
    },
    {  
       "partner":"fitbit",
       "displayName":"Fitbit",
       "authType":"oauth2",
-      "order":100,
-      "deviceType":"device",
-      "loginUrl":"https://www.fitbit.com/login",
-      "dataTypes":[  
-         "Activity"
-      ]
+      "logoUrl":"https://carevergesurveyicons.s3.amazonaws.com/icons/ncqa06a3.png"
    },
    {  
       "partner":"jawbone",
       "displayName":"Jawbone UP",
       "authType":"oauth2",
-      "order":0,
-      "deviceType":"device",
-      "loginUrl":"https://jawbone.com/signin",
-      "dataTypes":[  
-         "Activity"
-      ]
+      "logoUrl":"https://carevergesurveyicons.s3.amazonaws.com/icons/ncqa06a3.png"
    },
    {  
       "partner":"runkeeper",
       "displayName":"RunKeeper",
       "authType":"oauth2",
-      "order":0,
-      "deviceType":"phone",
-      "loginUrl":"https://runkeeper.com/login",
-      "dataTypes":[  
-         "Activity"
-      ]
+      "logoUrl":"https://carevergesurveyicons.s3.amazonaws.com/icons/ncqa06a3.png"
    },
    {  
       "partner":"mapmyfitness",
       "displayName":"MapMyRun",
       "authType":"oauth2",
-      "order":0,
-      "deviceType":"phone",
-      "loginUrl":"https://www.mapmyfitness.com/auth/login",
-      "dataTypes":[  
-         "Activity"
-      ]
-   },
-   {  
-      "partner":"strava",
-      "displayName":"Strava",
-      "authType":"oauth2",
-      "order":0,
-      "deviceType":"phone",
-      "loginUrl":"https://www.strava.com/login",
-      "dataTypes":[  
-         "Activity"
-      ]
-   },
-   {  
-      "partner":"misfit",
-      "displayName":"Misfit",
-      "authType":"oauth2",
-      "order":0,
-      "deviceType":"device",
-      "loginUrl":"https://sso.misfit.com/auth/login",
-      "dataTypes":[  
-         "Activity"
-      ]
-   },
-   {  
-      "partner":"moves",
-      "displayName":"Moves",
-      "authType":"oauth2",
-      "order":0,
-      "deviceType":"phone",
-      "loginUrl":"https://accounts.moves-app.com/signin",
-      "dataTypes":[  
-         "Activity"
-      ]
-   },
-   {  
-      "partner":"garmin",
-      "displayName":"Garmin",
-      "authType":"oauth1",
-      "order":0,
-      "deviceType":"device",
-      "loginUrl":"https://my.garmin.com/mygarmin",
-      "dataTypes":[  
-         "Activity"
-      ]
-   },
-   {  
-      "partner":"uarecord",
-      "displayName":"UA Record",
-      "authType":"oauth2",
-      "order":0,
-      "deviceType":"phone",
-      "loginUrl":"https://record.underarmour.com/login",
-      "dataTypes":[  
-         "Activity"
-      ]
-   },
-   {  
-      "partner":"withings",
-      "displayName":"Nokia Health",
-      "authType":"oauth1",
-      "order":0,
-      "deviceType":"device",
-      "loginUrl":"https://account.health.nokia.com/connectionwou/exit",
-      "dataTypes":[  
-         "Activity"
-      ]
+      "logoUrl":"https://carevergesurveyicons.s3.amazonaws.com/icons/ncqa06a3.png"
    }
 ]
